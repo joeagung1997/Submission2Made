@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="like">Suka</string>
+    <string name="share">Bagikan</string>
+
+    <string name="listFilm">Daftar Film</string>
+    <string name="listTv">Daftar Tayang Tv</string>
+
+    <string name="desc">Gambaran</string>
+    <string name="release_date">Tanggal Rilis</string>
+
+    <string-array name="jadwalFilm">
+        <item>21 September 2019</item>
+        <item>2 Agustus 2019</item>
+        <item>25 Januari 2019</item>
+        <item>12 Februari 2019</item>
+        <item>22 September 2019</item>
+        <item>30 Maret 2019 </item>
+        <item>21 Agustus 2019</item>
+        <item>21 Agustus 2019</item>
+        <item>21 Agustus 2019</item>
+        <item>21 Agustus 2019</item>
+
+
+    </string-array>
+
+    <string-array name="rating">
+        <item>993 Ratings (6.5/10)</item>
+        <item>800 Ratings (8.5/09)</item>
+        <item>200 Ratings (3.8/2)</item>
+        <item>349 Ratings (7.5/07)</item>
+        <item>223 Ratings (2.5/06)</item>
+        <item>857 Ratings (3.5/03)</item>
+        <item>786 Ratings (5.5/02)</item>
+        <item>572 Ratings (6.5/10)</item>
+        <item>238 Ratings (5.5/03)</item>
+        <item>213 Ratings (9.5/04)</item>
+
+
+    </string-array>
+
+    <string-array name="jamTayang">
+        <item>09.00 WIB</item>
+        <item>21.00 WIB</item>
+        <item>00.00 WIB</item>
+        <item>07.00 WIB</item>
+        <item>03.00 WIB</item>
+        <item>08.00 WIB</item>
+        <item>22.00 WIB</item>
+        <item>20.00 WIB</item>
+        <item>17.00 WIB</item>
+        <item>15.00 WIB</item>
+
+
+    </string-array>
+
+    <string-array name="judulTv">
+        <item>Fairy Tail</item>
+        <item>GOT</item>
+        <item>Super Girl</item>
+        <item>SuperNatural</item>
+        <item>Doom Patrol</item>
+        <item>Dragon Ball</item>
+        <item>The Walking Dead</item>
+        <item>Arrow</item>
+        <item>Iron First</item>
+        <item>The Flash</item>
+
+
+    </string-array>
+
+    <string-array name="descTv">
+        <item>Natsu Dragneel dan teman-temannya melakukan perjalanan ke pulau Kerajaan Stella, di mana mereka akan mengungkapkan rahasia gelap, melawan musuh-musuh baru dan sekali lagi menyelamatkan dunia dari kehancuran.</item>
+        <item>Tujuh keluarga bangsawan berjuang untuk menguasai tanah mitos Westeros. Gesekan antara rumah-rumah mengarah ke perang skala penuh.</item>
+        <item>Kara Zor El, 24 tahun, yang ditangkap oleh keluarga Danvers ketika dia berusia 13 tahun setelah diusir dari Krypton, harus belajar merangkul kekuatannya setelah sebelumnya menyembunyikannya. </item>
+        <item>Ketika mereka masih kecil, Sam dan Dean Winchester kehilangan ibu mereka karena kekuatan gaib yang misterius dan iblis. Selanjutnya, ayah mereka membesarkan mereka menjadi tentara.</item>
+        <item>Anggota Patroli Doom masing-masing mengalami kecelakaan mengerikan yang memberi mereka kemampuan manusia super  tetapi juga membuat mereka terluka dan cacat</item>
+        <item>Dragon Ball Z adalah serial televisi animasi Jepang yang diproduksi oleh Toei Animation. Dragon Ball Z adalah sekuel anime Dragon Ball dan mengadaptasi 26 volume terakhir dari seri manga Dragon Ball 42 volume asli yang dibuat oleh Akira Toriyama.</item>
+        <item>Wakil Sheriff, Rick Grimes, terbangun dari koma untuk menemukan dunia pasca-apokaliptik yang didominasi oleh zombie pemakan daging. Dia berangkat untuk menemukan keluarganya dan bertemu banyak penyintas lainnya di sepanjang jalan.</item>
+        <item>Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas ketika kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur.</item>
+        <item>Danny Rand muncul kembali 15 tahun setelah dianggap mati. Sekarang, dengan kekuatan Iron Fist, ia berusaha untuk merebut kembali masa lalunya dan memenuhi takdirnya.</item>
+        <item>Setelah akselerator partikel menyebabkan badai aneh, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya senang dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya "manusia meta" yang diciptakan setelah ledakan akselerator  dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan.</item>
+
+    </string-array>
+    <string-array name="descFilm">
+        <item>Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan</item>
+        <item>Ketika Alita terbangun tanpa ingatan tentang siapa dia di dunia masa depan yang tidak dia kenal, dia ditangkap oleh Ido, seorang dokter yang penuh kasih yang menyadari bahwa di suatu tempat dalam cangkang cyborg yang ditinggalkan ini adalah hati dan jiwa seorang wanita muda dengan luar biasa</item>
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan.</item>
+        <item>Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris bass John Deacon mengambil dunia musik dengan badai ketika mereka membentuk band rock n roll Queen pada tahun 1970.</item>
+        <item>Kehidupan keluarga yang tenang di Nels Coxman, seorang sopir bajak salju, menjadi kacau setelah pembunuhan putranya.</item>
+        <item>Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya.</item>
+        <item>Gellert Grindelwald telah lolos dari penjara dan mulai mengumpulkan pengikut untuk tujuan-nya - meninggikan penyihir di atas semua makhluk non-magis.</item>
+        <item>Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian.</item>
+        <item>Sebagai putra seorang pemimpin Viking pada puncak kedewasaan, pemalu Hiccup Horrendous Haddock III menghadapi ritus peralihan: ia harus membunuh seekor naga untuk membuktikan keberanian prajuritnya</item>
+        <item>Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. </item>
+
+
+    </string-array>
+</resources>
